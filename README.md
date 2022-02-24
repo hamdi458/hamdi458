@@ -14,6 +14,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamdi458&show_icons=true&count_private=true&Commits=Include All Commits)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdi458&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdi458&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hamdi458)  
